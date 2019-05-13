@@ -5,9 +5,9 @@ import com.example.android.book.Base.MvpContract;
 public class LoginContract {
 
     public interface View extends MvpContract.View{
-        /*void showloginResult();
+        void showloginResult();
 
-        void loadingSuccesful();
+        /*void loadingSuccesful();
 
         void errorOnLoading(String error);
 
